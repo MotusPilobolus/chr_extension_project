@@ -1,0 +1,1 @@
+chrome.devtools.panels.create('Meazure 2', null, 'panel.html', null);
