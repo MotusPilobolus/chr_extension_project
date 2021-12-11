@@ -3,7 +3,6 @@
     "description": "Build an Extension!",
     "version": "1.0",
     "manifest_version": 3,
-    "default_locale": "en",
     "author": "Motus Pilobolus",
     "background": {
         "service_worker": "background.js"
