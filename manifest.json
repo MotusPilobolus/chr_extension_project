@@ -7,5 +7,6 @@
     "author": "Motus Pilobolus",
     "background": {
         "service_worker": "background.js"
-      }
+      },
+      "permissions": ["storage"]
   }
